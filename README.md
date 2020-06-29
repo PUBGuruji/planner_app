@@ -1,6 +1,6 @@
 # plannerapp
 
-A new Flutter planner application for learning purposes. Will potentially use Firebase authentication and Relatime Database features.
+A new Flutter planner application for learning purposes. Will potentially use Firebase authentication and Realtime Database features.
 
 ## Getting Started
 
