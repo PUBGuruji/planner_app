@@ -2,8 +2,6 @@ Log.
 
 Description : Update this file with date and time as soon as you finish working on a feature and push it to git.
 
-Eg : 
-
-30-06-2020 @ 10.35am : Added the welcome screen to the app and linked the app to firebase.
+Example : 30-06-2020 @ 10.35am : Added the welcome screen to the app and linked the app to firebase.
 
 =========================================================== LOG STARTS HERE ===============================================================
